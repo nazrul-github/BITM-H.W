@@ -1,0 +1,20 @@
+H:\VS 2017 Project\CheckBoxContron\SimpleInterest Calculator\SimpleInterest Calculator\bin\Debug\SimpleInterest Calculator.exe.config
+H:\VS 2017 Project\CheckBoxContron\SimpleInterest Calculator\SimpleInterest Calculator\bin\Debug\SimpleInterest Calculator.exe
+H:\VS 2017 Project\CheckBoxContron\SimpleInterest Calculator\SimpleInterest Calculator\bin\Debug\SimpleInterest Calculator.pdb
+H:\VS 2017 Project\CheckBoxContron\SimpleInterest Calculator\SimpleInterest Calculator\obj\Debug\SimpleInterest Calculator.csprojAssemblyReference.cache
+H:\VS 2017 Project\CheckBoxContron\SimpleInterest Calculator\SimpleInterest Calculator\obj\Debug\SimpleInterest_Calculator.Form1.resources
+H:\VS 2017 Project\CheckBoxContron\SimpleInterest Calculator\SimpleInterest Calculator\obj\Debug\SimpleInterest_Calculator.Properties.Resources.resources
+H:\VS 2017 Project\CheckBoxContron\SimpleInterest Calculator\SimpleInterest Calculator\obj\Debug\SimpleInterest Calculator.csproj.GenerateResource.cache
+H:\VS 2017 Project\CheckBoxContron\SimpleInterest Calculator\SimpleInterest Calculator\obj\Debug\SimpleInterest Calculator.csproj.CoreCompileInputs.cache
+H:\VS 2017 Project\CheckBoxContron\SimpleInterest Calculator\SimpleInterest Calculator\obj\Debug\SimpleInterest Calculator.exe
+H:\VS 2017 Project\CheckBoxContron\SimpleInterest Calculator\SimpleInterest Calculator\obj\Debug\SimpleInterest Calculator.pdb
+H:\VS 2017 Project\SimpleInterest Calculator\SimpleInterest Calculator\bin\Debug\SimpleInterest Calculator.exe.config
+H:\VS 2017 Project\SimpleInterest Calculator\SimpleInterest Calculator\bin\Debug\SimpleInterest Calculator.exe
+H:\VS 2017 Project\SimpleInterest Calculator\SimpleInterest Calculator\bin\Debug\SimpleInterest Calculator.pdb
+H:\VS 2017 Project\SimpleInterest Calculator\SimpleInterest Calculator\obj\Debug\SimpleInterest Calculator.csprojAssemblyReference.cache
+H:\VS 2017 Project\SimpleInterest Calculator\SimpleInterest Calculator\obj\Debug\SimpleInterest_Calculator.Form1.resources
+H:\VS 2017 Project\SimpleInterest Calculator\SimpleInterest Calculator\obj\Debug\SimpleInterest_Calculator.Properties.Resources.resources
+H:\VS 2017 Project\SimpleInterest Calculator\SimpleInterest Calculator\obj\Debug\SimpleInterest Calculator.csproj.GenerateResource.cache
+H:\VS 2017 Project\SimpleInterest Calculator\SimpleInterest Calculator\obj\Debug\SimpleInterest Calculator.csproj.CoreCompileInputs.cache
+H:\VS 2017 Project\SimpleInterest Calculator\SimpleInterest Calculator\obj\Debug\SimpleInterest Calculator.exe
+H:\VS 2017 Project\SimpleInterest Calculator\SimpleInterest Calculator\obj\Debug\SimpleInterest Calculator.pdb

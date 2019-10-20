@@ -1,0 +1,7 @@
+H:\Bitm Class\H.W\Day-3\(Problem-3) ReturnGrade\(Problem-3) ReturnGrade\obj\Debug\(Problem-3) ReturnGrade.csprojAssemblyReference.cache
+H:\Bitm Class\H.W\Day-3\(Problem-3) ReturnGrade\(Problem-3) ReturnGrade\obj\Debug\(Problem-3) ReturnGrade.csproj.CoreCompileInputs.cache
+H:\Bitm Class\H.W\Day-3\(Problem-3) ReturnGrade\(Problem-3) ReturnGrade\bin\Debug\(Problem-3) ReturnGrade.exe.config
+H:\Bitm Class\H.W\Day-3\(Problem-3) ReturnGrade\(Problem-3) ReturnGrade\bin\Debug\(Problem-3) ReturnGrade.exe
+H:\Bitm Class\H.W\Day-3\(Problem-3) ReturnGrade\(Problem-3) ReturnGrade\bin\Debug\(Problem-3) ReturnGrade.pdb
+H:\Bitm Class\H.W\Day-3\(Problem-3) ReturnGrade\(Problem-3) ReturnGrade\obj\Debug\(Problem-3) ReturnGrade.exe
+H:\Bitm Class\H.W\Day-3\(Problem-3) ReturnGrade\(Problem-3) ReturnGrade\obj\Debug\(Problem-3) ReturnGrade.pdb

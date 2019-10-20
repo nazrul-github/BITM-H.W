@@ -1,0 +1,7 @@
+H:\Bitm Class\H.W\Day-3\listMinimumMaxim\listMinimumMaxim\bin\Debug\listMinimumMaxim.exe.config
+H:\Bitm Class\H.W\Day-3\listMinimumMaxim\listMinimumMaxim\bin\Debug\listMinimumMaxim.exe
+H:\Bitm Class\H.W\Day-3\listMinimumMaxim\listMinimumMaxim\bin\Debug\listMinimumMaxim.pdb
+H:\Bitm Class\H.W\Day-3\listMinimumMaxim\listMinimumMaxim\obj\Debug\listMinimumMaxim.csprojAssemblyReference.cache
+H:\Bitm Class\H.W\Day-3\listMinimumMaxim\listMinimumMaxim\obj\Debug\listMinimumMaxim.csproj.CoreCompileInputs.cache
+H:\Bitm Class\H.W\Day-3\listMinimumMaxim\listMinimumMaxim\obj\Debug\listMinimumMaxim.exe
+H:\Bitm Class\H.W\Day-3\listMinimumMaxim\listMinimumMaxim\obj\Debug\listMinimumMaxim.pdb

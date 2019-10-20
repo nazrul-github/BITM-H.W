@@ -1,0 +1,7 @@
+H:\Bitm Class\H.W\Day-3\(Problem-2) takeNumberReturnAvg\(Problem-2) takeNumberReturnAvg\bin\Debug\(Problem-2) takeNumberReturnAvg.exe.config
+H:\Bitm Class\H.W\Day-3\(Problem-2) takeNumberReturnAvg\(Problem-2) takeNumberReturnAvg\bin\Debug\(Problem-2) takeNumberReturnAvg.exe
+H:\Bitm Class\H.W\Day-3\(Problem-2) takeNumberReturnAvg\(Problem-2) takeNumberReturnAvg\bin\Debug\(Problem-2) takeNumberReturnAvg.pdb
+H:\Bitm Class\H.W\Day-3\(Problem-2) takeNumberReturnAvg\(Problem-2) takeNumberReturnAvg\obj\Debug\(Problem-2) takeNumberReturnAvg.csprojAssemblyReference.cache
+H:\Bitm Class\H.W\Day-3\(Problem-2) takeNumberReturnAvg\(Problem-2) takeNumberReturnAvg\obj\Debug\(Problem-2) takeNumberReturnAvg.csproj.CoreCompileInputs.cache
+H:\Bitm Class\H.W\Day-3\(Problem-2) takeNumberReturnAvg\(Problem-2) takeNumberReturnAvg\obj\Debug\(Problem-2) takeNumberReturnAvg.exe
+H:\Bitm Class\H.W\Day-3\(Problem-2) takeNumberReturnAvg\(Problem-2) takeNumberReturnAvg\obj\Debug\(Problem-2) takeNumberReturnAvg.pdb

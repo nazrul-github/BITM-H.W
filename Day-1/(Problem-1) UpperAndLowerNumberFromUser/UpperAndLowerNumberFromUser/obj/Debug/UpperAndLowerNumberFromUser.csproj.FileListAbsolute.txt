@@ -1,0 +1,7 @@
+H:\VS 2017 Project\UpperAndLowerNumberFromUser\UpperAndLowerNumberFromUser\bin\Debug\UpperAndLowerNumberFromUser.exe.config
+H:\VS 2017 Project\UpperAndLowerNumberFromUser\UpperAndLowerNumberFromUser\bin\Debug\UpperAndLowerNumberFromUser.exe
+H:\VS 2017 Project\UpperAndLowerNumberFromUser\UpperAndLowerNumberFromUser\bin\Debug\UpperAndLowerNumberFromUser.pdb
+H:\VS 2017 Project\UpperAndLowerNumberFromUser\UpperAndLowerNumberFromUser\obj\Debug\UpperAndLowerNumberFromUser.csprojAssemblyReference.cache
+H:\VS 2017 Project\UpperAndLowerNumberFromUser\UpperAndLowerNumberFromUser\obj\Debug\UpperAndLowerNumberFromUser.csproj.CoreCompileInputs.cache
+H:\VS 2017 Project\UpperAndLowerNumberFromUser\UpperAndLowerNumberFromUser\obj\Debug\UpperAndLowerNumberFromUser.exe
+H:\VS 2017 Project\UpperAndLowerNumberFromUser\UpperAndLowerNumberFromUser\obj\Debug\UpperAndLowerNumberFromUser.pdb

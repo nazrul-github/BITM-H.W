@@ -1,0 +1,14 @@
+H:\Bitm Class\H.W\arrayMinimumMaximum\arrayMinimumMaximum\bin\Debug\arrayMinimumMaximum.exe.config
+H:\Bitm Class\H.W\arrayMinimumMaximum\arrayMinimumMaximum\bin\Debug\arrayMinimumMaximum.exe
+H:\Bitm Class\H.W\arrayMinimumMaximum\arrayMinimumMaximum\bin\Debug\arrayMinimumMaximum.pdb
+H:\Bitm Class\H.W\arrayMinimumMaximum\arrayMinimumMaximum\obj\Debug\arrayMinimumMaximum.csprojAssemblyReference.cache
+H:\Bitm Class\H.W\arrayMinimumMaximum\arrayMinimumMaximum\obj\Debug\arrayMinimumMaximum.csproj.CoreCompileInputs.cache
+H:\Bitm Class\H.W\arrayMinimumMaximum\arrayMinimumMaximum\obj\Debug\arrayMinimumMaximum.exe
+H:\Bitm Class\H.W\arrayMinimumMaximum\arrayMinimumMaximum\obj\Debug\arrayMinimumMaximum.pdb
+H:\Bitm Class\H.W\Day-3\arrayMinimumMaximum\arrayMinimumMaximum\bin\Debug\arrayMinimumMaximum.exe.config
+H:\Bitm Class\H.W\Day-3\arrayMinimumMaximum\arrayMinimumMaximum\bin\Debug\arrayMinimumMaximum.exe
+H:\Bitm Class\H.W\Day-3\arrayMinimumMaximum\arrayMinimumMaximum\bin\Debug\arrayMinimumMaximum.pdb
+H:\Bitm Class\H.W\Day-3\arrayMinimumMaximum\arrayMinimumMaximum\obj\Debug\arrayMinimumMaximum.csprojAssemblyReference.cache
+H:\Bitm Class\H.W\Day-3\arrayMinimumMaximum\arrayMinimumMaximum\obj\Debug\arrayMinimumMaximum.csproj.CoreCompileInputs.cache
+H:\Bitm Class\H.W\Day-3\arrayMinimumMaximum\arrayMinimumMaximum\obj\Debug\arrayMinimumMaximum.exe
+H:\Bitm Class\H.W\Day-3\arrayMinimumMaximum\arrayMinimumMaximum\obj\Debug\arrayMinimumMaximum.pdb

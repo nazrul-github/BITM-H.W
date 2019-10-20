@@ -1,0 +1,7 @@
+H:\Bitm Class\H.W\Day-3\displayFullName\displayFullName\bin\Debug\displayFullName.exe.config
+H:\Bitm Class\H.W\Day-3\displayFullName\displayFullName\bin\Debug\displayFullName.exe
+H:\Bitm Class\H.W\Day-3\displayFullName\displayFullName\bin\Debug\displayFullName.pdb
+H:\Bitm Class\H.W\Day-3\displayFullName\displayFullName\obj\Debug\displayFullName.csprojAssemblyReference.cache
+H:\Bitm Class\H.W\Day-3\displayFullName\displayFullName\obj\Debug\displayFullName.csproj.CoreCompileInputs.cache
+H:\Bitm Class\H.W\Day-3\displayFullName\displayFullName\obj\Debug\displayFullName.exe
+H:\Bitm Class\H.W\Day-3\displayFullName\displayFullName\obj\Debug\displayFullName.pdb

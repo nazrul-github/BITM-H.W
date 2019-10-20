@@ -1,0 +1,7 @@
+H:\Bitm Class\H.W\Day-3\arrayAverage\arrayAverage\bin\Debug\arrayAverage.exe.config
+H:\Bitm Class\H.W\Day-3\arrayAverage\arrayAverage\bin\Debug\arrayAverage.exe
+H:\Bitm Class\H.W\Day-3\arrayAverage\arrayAverage\bin\Debug\arrayAverage.pdb
+H:\Bitm Class\H.W\Day-3\arrayAverage\arrayAverage\obj\Debug\arrayAverage.csprojAssemblyReference.cache
+H:\Bitm Class\H.W\Day-3\arrayAverage\arrayAverage\obj\Debug\arrayAverage.csproj.CoreCompileInputs.cache
+H:\Bitm Class\H.W\Day-3\arrayAverage\arrayAverage\obj\Debug\arrayAverage.exe
+H:\Bitm Class\H.W\Day-3\arrayAverage\arrayAverage\obj\Debug\arrayAverage.pdb

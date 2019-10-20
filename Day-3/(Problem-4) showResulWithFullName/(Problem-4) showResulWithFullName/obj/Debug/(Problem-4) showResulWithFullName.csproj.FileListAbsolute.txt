@@ -1,0 +1,7 @@
+H:\Bitm Class\H.W\Day-3\(Problem-4) showResulWithFullName\(Problem-4) showResulWithFullName\bin\Debug\(Problem-4) showResulWithFullName.exe.config
+H:\Bitm Class\H.W\Day-3\(Problem-4) showResulWithFullName\(Problem-4) showResulWithFullName\bin\Debug\(Problem-4) showResulWithFullName.exe
+H:\Bitm Class\H.W\Day-3\(Problem-4) showResulWithFullName\(Problem-4) showResulWithFullName\bin\Debug\(Problem-4) showResulWithFullName.pdb
+H:\Bitm Class\H.W\Day-3\(Problem-4) showResulWithFullName\(Problem-4) showResulWithFullName\obj\Debug\(Problem-4) showResulWithFullName.csprojAssemblyReference.cache
+H:\Bitm Class\H.W\Day-3\(Problem-4) showResulWithFullName\(Problem-4) showResulWithFullName\obj\Debug\(Problem-4) showResulWithFullName.csproj.CoreCompileInputs.cache
+H:\Bitm Class\H.W\Day-3\(Problem-4) showResulWithFullName\(Problem-4) showResulWithFullName\obj\Debug\(Problem-4) showResulWithFullName.exe
+H:\Bitm Class\H.W\Day-3\(Problem-4) showResulWithFullName\(Problem-4) showResulWithFullName\obj\Debug\(Problem-4) showResulWithFullName.pdb

@@ -1,0 +1,10 @@
+H:\Bitm Class\H.W\BookInformationKeeper\BookInformationKeeper\bin\Debug\BookInformationKeeper.exe.config
+H:\Bitm Class\H.W\BookInformationKeeper\BookInformationKeeper\bin\Debug\BookInformationKeeper.exe
+H:\Bitm Class\H.W\BookInformationKeeper\BookInformationKeeper\bin\Debug\BookInformationKeeper.pdb
+H:\Bitm Class\H.W\BookInformationKeeper\BookInformationKeeper\obj\Debug\BookInformationKeeper.csprojAssemblyReference.cache
+H:\Bitm Class\H.W\BookInformationKeeper\BookInformationKeeper\obj\Debug\BookInformationKeeper.Form1.resources
+H:\Bitm Class\H.W\BookInformationKeeper\BookInformationKeeper\obj\Debug\BookInformationKeeper.Properties.Resources.resources
+H:\Bitm Class\H.W\BookInformationKeeper\BookInformationKeeper\obj\Debug\BookInformationKeeper.csproj.GenerateResource.cache
+H:\Bitm Class\H.W\BookInformationKeeper\BookInformationKeeper\obj\Debug\BookInformationKeeper.csproj.CoreCompileInputs.cache
+H:\Bitm Class\H.W\BookInformationKeeper\BookInformationKeeper\obj\Debug\BookInformationKeeper.exe
+H:\Bitm Class\H.W\BookInformationKeeper\BookInformationKeeper\obj\Debug\BookInformationKeeper.pdb

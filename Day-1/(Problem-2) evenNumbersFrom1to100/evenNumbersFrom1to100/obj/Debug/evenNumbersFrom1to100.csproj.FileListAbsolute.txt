@@ -1,0 +1,7 @@
+C:\Users\amiro\source\repos\evenNumbersFrom1to100\evenNumbersFrom1to100\bin\Debug\evenNumbersFrom1to100.exe.config
+C:\Users\amiro\source\repos\evenNumbersFrom1to100\evenNumbersFrom1to100\bin\Debug\evenNumbersFrom1to100.exe
+C:\Users\amiro\source\repos\evenNumbersFrom1to100\evenNumbersFrom1to100\bin\Debug\evenNumbersFrom1to100.pdb
+C:\Users\amiro\source\repos\evenNumbersFrom1to100\evenNumbersFrom1to100\obj\Debug\evenNumbersFrom1to100.csprojAssemblyReference.cache
+C:\Users\amiro\source\repos\evenNumbersFrom1to100\evenNumbersFrom1to100\obj\Debug\evenNumbersFrom1to100.csproj.CoreCompileInputs.cache
+C:\Users\amiro\source\repos\evenNumbersFrom1to100\evenNumbersFrom1to100\obj\Debug\evenNumbersFrom1to100.exe
+C:\Users\amiro\source\repos\evenNumbersFrom1to100\evenNumbersFrom1to100\obj\Debug\evenNumbersFrom1to100.pdb
