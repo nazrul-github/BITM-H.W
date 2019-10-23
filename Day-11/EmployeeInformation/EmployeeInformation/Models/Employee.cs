@@ -32,5 +32,9 @@ namespace EmployeeInformation.Models
         {
             EmployeeId = employeeId;
         }
+
+        public Employee()
+        {
+        }
     }
 }
