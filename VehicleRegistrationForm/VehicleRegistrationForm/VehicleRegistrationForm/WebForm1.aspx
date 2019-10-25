@@ -1,7 +1,7 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="WebForm1.aspx.cs" Inherits="VehicleRegistrationForm.WebForm1" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
 
-    <table  style="width: 664px; border: 1px solid #000000">
+    -----------------------------------------------------------------------------------------------------------------------------------------------<table  style="width: 664px; border: 1px solid #000000">
         <tr>
             <td colspan="3"><h2 class="text-center">Vehicle Registration Form</h2></td>
             

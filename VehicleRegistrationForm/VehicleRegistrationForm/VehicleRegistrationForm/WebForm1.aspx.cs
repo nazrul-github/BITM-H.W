@@ -89,7 +89,7 @@ namespace VehicleRegistrationForm
                     string modelYear = reader["ModelYear"].ToString();
                     string color = reader["Color"].ToString();
                     string insuranceNumber = reader["InsuranceNumber"].ToString();
-                    string ownerName = reader["VehicleOwnerName"].ToString();
+                    string ownerName = reader["VehicleOwner"].ToString();
                     string registrationcity = reader["RegistrationCity"].ToString();
                     int registrationNumber = Convert.ToInt32(reader["RegistrationNumber"]);
                     Vehicle newVehicle = new Vehicle(manufacturer, modelYear, color, insuranceNumber, ownerName, registrationcity, registrationNumber);
